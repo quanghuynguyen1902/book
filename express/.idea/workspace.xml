@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e43440a-3a44-4e5d-8b80-fd8e1a7db687" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bookDirectory/assets/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/assets/css/tailwind.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/assets/image/nature-grass-leaf-green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/assets/image/pexels-photo-2386687.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/assets/image/pexels-photo-734968.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/assets/image/pexels-photo-904620.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/assets/image/pexels-suzy-hazelwood-1130980.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/components/Navbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/components/TaiwindComponent/Card.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/components/TaiwindComponent/DropDown.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/components/TaiwindComponent/DropDownMobile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/pages/category/_slug/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/pages/category/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/pages/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/pages/test.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookDirectory/plugins/infiniteScroll.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bookDirectory" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1mBAHBj8QtXnuDpce4SjVSPYtnx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../anydoc" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/bookDirectory/node_modules/stylelint" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="vuejs.nuxt.types-notification-shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bookDirectory/components/TaiwindComponent" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e43440a-3a44-4e5d-8b80-fd8e1a7db687" name="Default Changelist" comment="" />
+      <created>1608956519681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608956519681</updated>
+      <workItem from="1608956520829" duration="882000" />
+      <workItem from="1608957417276" duration="6953000" />
+      <workItem from="1608995231642" duration="4012000" />
+      <workItem from="1609037431772" duration="6818000" />
+      <workItem from="1609069871615" duration="1396000" />
+      <workItem from="1609082805118" duration="2085000" />
+      <workItem from="1609128589390" duration="9618000" />
+      <workItem from="1609152654114" duration="8906000" />
+      <workItem from="1609212249479" duration="8000" />
+      <workItem from="1609236320312" duration="5462000" />
+      <workItem from="1609265438446" duration="8000" />
+      <workItem from="1609317235916" duration="4000" />
+      <workItem from="1609321015098" duration="84000" />
+      <workItem from="1609324794697" duration="17000" />
+      <workItem from="1609431769491" duration="3995000" />
+      <workItem from="1609681436881" duration="602000" />
+      <workItem from="1609731372070" duration="4000" />
+      <workItem from="1609747765290" duration="7009000" />
+      <workItem from="1609771294073" duration="3214000" />
+      <workItem from="1609815399330" duration="30000" />
+      <workItem from="1610820721722" duration="2088000" />
+      <workItem from="1610847733736" duration="2687000" />
+      <workItem from="1610875368179" duration="1814000" />
+      <workItem from="1610941729081" duration="1203000" />
+      <workItem from="1610961603834" duration="62000" />
+      <workItem from="1611028137732" duration="1928000" />
+      <workItem from="1611039607479" duration="3070000" />
+      <workItem from="1611112937679" duration="2709000" />
+      <workItem from="1611134709247" duration="3035000" />
+      <workItem from="1611200828284" duration="2233000" />
+      <workItem from="1611476568332" duration="1261000" />
+      <workItem from="1611556574449" duration="13000" />
+      <workItem from="1611716468121" duration="1299000" />
+      <workItem from="1611736446185" duration="639000" />
+      <workItem from="1611906229985" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1611907264152">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1609212255735" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1611907264152" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1608972679366">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1608972679366" />
+    <state x="785" y="411" width="417" height="282" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE" timestamp="1609753121500">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="785" y="411" width="417" height="282" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE/67.27.1853.1053@67.27.1853.1053" timestamp="1609753121500" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+</project>
