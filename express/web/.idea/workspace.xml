@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6bb86ed-8b0d-43bb-86ff-c13c7b6b598b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1kfwnrO1f6cFXLboeLjSGrdPAct" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api/auth" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6bb86ed-8b0d-43bb-86ff-c13c7b6b598b" name="Default Changelist" comment="" />
+      <created>1606105123700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606105123700</updated>
+      <workItem from="1606105124763" duration="3176000" />
+      <workItem from="1606148501370" duration="2897000" />
+      <workItem from="1606181494597" duration="1748000" />
+      <workItem from="1606198052590" duration="167000" />
+      <workItem from="1606290760797" duration="412000" />
+      <workItem from="1606320189745" duration="5409000" />
+      <workItem from="1606363168841" duration="19000" />
+      <workItem from="1606412656818" duration="2374000" />
+      <workItem from="1606442508689" duration="12000" />
+      <workItem from="1606749166455" duration="2022000" />
+      <workItem from="1606791800520" duration="47000" />
+      <workItem from="1606904302112" duration="3777000" />
+      <workItem from="1606965379666" duration="10000" />
+      <workItem from="1607009372948" duration="3591000" />
+      <workItem from="1607046788135" duration="4797000" />
+      <workItem from="1607066887186" duration="4529000" />
+      <workItem from="1607080210350" duration="4900000" />
+      <workItem from="1607094624634" duration="2360000" />
+      <workItem from="1607158500329" duration="8479000" />
+      <workItem from="1607223936367" duration="7983000" />
+      <workItem from="1607243850005" duration="3844000" />
+      <workItem from="1607258977022" duration="10948000" />
+      <workItem from="1607307740340" duration="3810000" />
+      <workItem from="1607329801696" duration="20000" />
+      <workItem from="1607445138146" duration="550000" />
+      <workItem from="1607480333134" duration="616000" />
+      <workItem from="1607520205505" duration="5558000" />
+      <workItem from="1607572792498" duration="17000" />
+      <workItem from="1607988425058" duration="3817000" />
+      <workItem from="1608002449399" duration="529000" />
+      <workItem from="1608910779903" duration="999000" />
+      <workItem from="1608956496469" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1608956517580">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1607572803144" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1608956517580" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1606321680061">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1606321680061" />
+  </component>
+</project>
